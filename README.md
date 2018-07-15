@@ -1,2 +1,3 @@
 # CPN
-TicTacToe
+TicTacToe game created in CPN Tools
+
